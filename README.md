@@ -26,7 +26,7 @@ The purpose of this project is to produce a statistical analysis of the June and
 
 ## Summary:
 
-A surf and ice cream shop would be a sustainable year-round business. Additional queries could be done on percipitation and longititudinal data going back more years.
+A surf and ice cream shop would be a sustainable year-round business. Additional queries could be done on percipitation and longitudinal data going back more years.
 
 <img width="981" alt="Screen Shot 2021-12-14 at 10 15 34 PM" src="https://user-images.githubusercontent.com/91925639/146116738-49b7517e-b5d9-496b-9937-a891fff75a9d.png">
 
